@@ -1,6 +1,6 @@
 {
   "name": "padster",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Zero-pad a number",
   "main": "index.js",
   "scripts": {
